@@ -1,4 +1,4 @@
-# Exibe conteúdo
+# Exibe mensagem ao usuário
 print("Hello World")
 
 # Realiza operação matemática
